@@ -1,3 +1,3 @@
-# goit-js-hw-03
+GoIT Practice Lessons JS
 
-GoIT School / Java Script / Homework#3
+GoIT / Practice Lessons / JS
